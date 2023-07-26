@@ -1,1 +1,0 @@
-# Rangoli-Sales-Order-Management-App
