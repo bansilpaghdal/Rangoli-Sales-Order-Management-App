@@ -2,7 +2,9 @@
 
 A Flutter project to receive sales order from the customers for an authorized distributor of a sales agency.
 
-## Getting Started
+## Home Screen And Registration
+
+![]{https://github.com/bansilpaghdal/Rangoli-Sales-Order-Management-App/blob/master/GIFs/Registration.gif}
 
 This project is a starting point for a Flutter application.
 
