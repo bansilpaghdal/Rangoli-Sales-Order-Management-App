@@ -1,6 +1,6 @@
-# rangoli
+# Rangoli Sales Order Management App
 
-A new Flutter project.
+A Flutter project to receive sales order from the customers for an authorized distributor of a sales agency.
 
 ## Getting Started
 
