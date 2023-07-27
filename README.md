@@ -4,7 +4,7 @@ A Flutter project to receive sales order from the customers for an authorized di
 
 ## Home Screen And Registration
 
-<img src="/GIFs/registration.gif" width="350" height="550"/>
+<img src="/GIFs/registration.gif" width="300" height="550"/>
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
