@@ -4,7 +4,7 @@ A Flutter project to receive sales order from the customers for an authorized di
 
 ## Home Screen And Registration
 
-<img src="/GIFs/Registration.mp4" width="350" height="550"/>
+<img src="https://github.com/bansilpaghdal/Rangoli-Sales-Order-Management-App/blob/master/GIFs/registration%20(2).mp4" width="350" height="550"/>
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
