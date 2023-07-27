@@ -2,8 +2,14 @@
 
 A Flutter project to receive sales order from the customers for an authorized distributor of a sales agency.
 
+## Welcome Screen 
+<img src="/GIFs/welcome%20screen.gif" width="300" height="550"/>
+
 ## Home Screen And Registration
 
+<img src="/GIFs/createorder.gif" width="300" height="550"/>
+
+## Order Creation
 <img src="/GIFs/registration.gif" width="300" height="550"/>
 This project is a starting point for a Flutter application.
 
