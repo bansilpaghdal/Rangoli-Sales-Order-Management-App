@@ -3,13 +3,10 @@
 A Flutter project to receive sales order from the customers for an authorized distributor of a sales agency.
 
 ## Welcome Screen 
-<img src="/GIFs/welcome%20screen.gif" width="300" height="550"/>  This is the Welcome Screen.fbdfdhdfh fsdgsdfgfdgfsdgfg
-fdg
-df
-fdh
-fd
-hfsd
-hsfdh
+This is the Welcome Screen where a user can either login or register.
+<img src="/GIFs/welcome%20screen.gif" width="300" height="550"/>
+
+
 
 ## Home Screen And Registration
 <img src="/GIFs/registration.gif" width="300" height="550"/>
