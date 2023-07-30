@@ -21,10 +21,10 @@ This is the Welcome Screen where a user can either login or register.
 ## Order Creation
 User can create order with their own requirements using this page.
 - **Create Order Page:**
- - Itemlist is shown along with their price, user can select the number of Box or Patti to be ordered.
- - Total number of boxes and patti entered is soen on the top with the total amount of order.
- - Multiple Pageviews are used to navigate between different segment of items.
- - WillPopScope is used to avoid accidental page poppong due to back button.
+  - Itemlist is shown along with their price, user can select the number of Box or Patti to be ordered.
+  - Total number of boxes and patti entered is soen on the top with the total amount of order.
+  - Multiple Pageviews are used to navigate between different segment of items.
+  - WillPopScope is used to avoid accidental page poppong due to back button.
  - **Review Order Page:**
    -
 <img src="/GIFs/createorder.gif" width="300" height="550"/>
