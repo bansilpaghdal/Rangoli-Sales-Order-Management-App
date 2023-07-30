@@ -9,7 +9,7 @@ This is the Welcome Screen where a user can either login or register.
 
 
 ## Home Screen And Registration
-* The user will be presented with the authentication screen from which the user can login, register.
+ The user will be presented with the authentication screen from which the user can login, register.
   - **Registration Screen:**
    - User has to insert a 10 digit phone number to register on which he will receive an OTP.
    - Phone Authentication is implemented using firebase.
