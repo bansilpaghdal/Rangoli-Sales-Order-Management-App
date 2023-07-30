@@ -13,7 +13,10 @@ This is the Welcome Screen where a user can either login or register.
   - **Registration Screen:**
    - User has to insert a 10 digit phone number to register on which he will receive an OTP.
    - Phone Authentication is implemented using firebase.
-   - A data connection checker is used to check whether the device is connected to the internet before procedding to send the OTP. 
+   - A data connection checker is used to check whether the device is connected to the internet before procedding to send the OTP.
+    * app
+     * sfsf
+     * s fsag
 
  <p align="center"><img src="/GIFs/registration.gif" width="300" height="550"/></p>
 
