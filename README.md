@@ -4,7 +4,7 @@ A Flutter project to receive sales order from the customers for an authorized di
 
 ## Welcome Screen 
 This is the Welcome Screen where a user can either login or register.
-<img src="/GIFs/welcome%20screen.gif" width="300" height="550"/>
+ <p align="center"> <img src="/GIFs/welcome%20screen.gif" width="300" height="550"/></p>
 
 
 
