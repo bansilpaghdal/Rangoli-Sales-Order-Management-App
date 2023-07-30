@@ -27,6 +27,8 @@ User can create order with their own requirements using this page.
   - WillPopScope is used to avoid accidental page poppong due to back button.
 - **Review Order Page:**
    - User can review the summary of the order placed.
+   - A slider is implemented for user to swipe to confirm the order.
+   - A Data Connection Checker is implemented to check whether the device is connected to the internet and instead of using of general way where only it is only checked wheter the mobile data is on/off or any wifi is connected, a constant pinging to an internet address was used to eradicate a possibility where a device is connected to a wifi but wifi has no internet, the general way would show the device connected to the internet. 
  
 <p align="center"><img src="/GIFs/createorder.gif" width="300" height="550"/></p>
 This project is a starting point for a Flutter application.
