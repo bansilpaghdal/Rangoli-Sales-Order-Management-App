@@ -26,8 +26,9 @@ User can create order with their own requirements using this page.
   - Multiple Pageviews are used to navigate between different segment of items.
   - WillPopScope is used to avoid accidental page poppong due to back button.
 - **Review Order Page:**
-   -
-<img src="/GIFs/createorder.gif" width="300" height="550"/>
+   - User can review the summary of the order placed.
+ 
+<p align="center"><img src="/GIFs/createorder.gif" width="300" height="550"/></p>
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
