@@ -25,7 +25,7 @@ User can create order with their own requirements using this page.
   - Total number of boxes and patti entered is soen on the top with the total amount of order.
   - Multiple Pageviews are used to navigate between different segment of items.
   - WillPopScope is used to avoid accidental page poppong due to back button.
- - **Review Order Page:**
+- **Review Order Page:**
    -
 <img src="/GIFs/createorder.gif" width="300" height="550"/>
 This project is a starting point for a Flutter application.
