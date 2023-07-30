@@ -9,8 +9,9 @@ This is the Welcome Screen where a user can either login or register.
 
 
 ## Home Screen And Registration
-<img src="/GIFs/registration.gif" width="300" height="550"/>
-
+ <p align="center"><img src="/GIFs/registration.gif" width="300" height="550"/></p>
+The user will be presented with the authentication screen from which the user can login, register.
+* **Login Screen:** Registration Screen
 
 ## Order Creation
 <img src="/GIFs/createorder.gif" width="300" height="550"/>
