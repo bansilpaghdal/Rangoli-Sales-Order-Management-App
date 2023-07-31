@@ -31,8 +31,14 @@ User can create order with their own requirements using this page.
    - A Data Connection Checker is implemented to check whether the device is connected to the internet and instead of using of general way where only it is only checked wheter the mobile data is on/off or any wifi is connected, a constant pinging to an internet address was used to eradicate a possibility where a device is connected to a wifi but wifi has no internet, the general way would show the device connected to the internet. 
  
 <p align="center"><img src="/GIFs/createorder.gif" width="300" height="550"/></p>
-This project is a starting point for a Flutter application.
 
+## View Order
+- User can view the detailed summary of their past order inside te view order page.
+  - Orders are shown in a list according to the dates on which they were placed.
+  - This is accomplished by a calendar showing dates of a particular month which can be navigated easily.
+  - 
+  <p align="center"><img src="/GIFs/vieworder.gif" width="300" height="550"/></p>
+This project is a starting point for a Flutter application.
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
