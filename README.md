@@ -36,14 +36,14 @@ User can create order with their own requirements using this page.
 - User can view the detailed summary of their past order inside te view order page.
   - Orders are shown in a list according to the dates on which they were placed.
   - This is accomplished by a calendar showing dates of a particular month which can be navigated easily.
-  - 
+  
   <p align="center"><img src="/GIFs/vieworder.gif" width="300" height="550"/></p>
-This project is a starting point for a Flutter application.
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Edit Order
+- User can edit their order.
+  - User is routed to create order where the user can edit their order and then review their order summary before finally applying changes.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ <p align="center"><img src="/GIFs/editorder.gif" width="300" height="550"/></p>
+
+ 
+
